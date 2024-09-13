@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Momina45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Momina45/Momina45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Hi, I'm @Momina45 👋
+- 🎓 Computer Science student learning web and game development.
+- 🔭 Currently working on improving my skills in C++ and Data Structures & Algorithms.
+- 🌱 Learning web development (HTML, CSS, JavaScript) and exploring game development.
+- 💻 Recent project: A bill-splitting app built as part of a group project.
+- ⚡ Fun fact: I enjoy solving problems and coding challenges.
+- 📫 Reach me at mominaarshad4455@gmail.com
