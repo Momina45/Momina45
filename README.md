@@ -4,4 +4,4 @@
 - 🌱 Learning web development (HTML, CSS, JavaScript) and exploring game development.
 - 💻 Recent project: A bill-splitting app built as part of a group project.
 - ⚡ Fun fact: I enjoy solving problems and coding challenges.
-- 📫 Reach me at mominaarshad4455@gmail.com
+- 📫 Reach me at duakunwar45@gmail.com
