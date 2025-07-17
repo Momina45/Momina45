@@ -1,7 +1,20 @@
- Hi, I'm @Momina45 👋
-- 🎓 Computer Science student learning web development.
-- 🔭 Currently working on improving my skills in Javascript.
-- 🌱 Learning web development (HTML, CSS, JavaScript).
-- 💻 Recent project: A bill-splitting app built as part of a class group project.
-- ⚡ Fun fact: I enjoy solving problems and coding challenges.
-- 📫 Reach me at duakunwar45@gmail.com
+# Hi, I'm Momina45
+
+Front-End Web Developer | Learning JavaScript, React & UI Design
+
+ I’m currently working on:
+- Daily DOM-based mini projects
+- Portfolio website
+
+ I’m currently learning:
+- React.js
+- Responsive design with Tailwind CSS
+
+ How to reach me:
+[LinkedIn](https://www.linkedin.com/in/momina-arshad-19ab29328) | [Email](mailto:duakunwar45@gmail.com)
+
+ Featured Projects:
+- [Todo List App](https://github.com/Momina45/todo-list) - JS + LocalStorage
+- [Currency Converter](https://github.com/Momina45/currency-converter) - Live API + Clean UI
+
+ Fun fact: I love solving DOM puzzles and UI challenges!
